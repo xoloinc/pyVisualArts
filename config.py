@@ -1,0 +1,3 @@
+CONFIG = {
+    'background-color':''
+}
